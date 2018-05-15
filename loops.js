@@ -1,13 +1,9 @@
-let randomNumber = 69;
-while (randomNumber > 0) {
-  console.log(--randomNumber)
-  return 'done'
+
+for (let i = 1; i < 25; i++)
+{
+  console.log("I am ${i} strange loops.")
 }
 
-let doWhileLoop = ['son', 'of', 'a gun']
-
-function maybeTrue() {
-  doWhileLoop.length > 0 && maybeTrue()
-  return doWhileloop
+while whileLoop ([1]) {
+  console.log()
 }
-
